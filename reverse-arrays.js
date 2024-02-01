@@ -1,5 +1,9 @@
 function reverseArray(arr) {
-  // Add code.
+  let reverseArray = ["A", "B", "C"];
+  reverseArray[0] = "C"
+  reverseArray[1] = "B"
+  reverseArray[2] = "A"
+console.log(reverseArray)
 }
 
 function reverseArrayInPlace(arr) {
