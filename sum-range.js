@@ -1,5 +1,6 @@
 function range(start, end, step = 1) {
-  // Add code.
+  let range = {}
+  for(let i = )
 }
 
 function sum(numbers) {
